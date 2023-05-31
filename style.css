@@ -77,7 +77,8 @@ section ul{
 footer{
     margin-top: 2em;
     margin-bottom: 1em;
-    background: #222;
+    background: #999;
+    color:aqua;
     padding: 1em 0;
     text-align: center;
 }
