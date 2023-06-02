@@ -9,7 +9,7 @@ html{
     margin-top: 3em;
 }
 h1,h2,h3{
-    color:#222;
+    color:brown;
 }
 header,
 main,
@@ -66,7 +66,7 @@ section ul{
     grid-column-gap: 1em;
 }
 #projects article{
-    background: burlywood;
+    background:blanchedalmond;
     padding: 1em;
 }
 #projects article img{
@@ -78,7 +78,7 @@ footer{
     margin-top: 2em;
     margin-bottom: 1em;
     background: #999;
-    color:aqua;
+    color:blanchedalmond;
     padding: 1em 0;
     text-align: center;
 }
